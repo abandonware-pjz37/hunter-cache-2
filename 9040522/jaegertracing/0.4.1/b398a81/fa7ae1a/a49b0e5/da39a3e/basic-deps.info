@@ -1,0 +1,4 @@
+nlohmann_json
+opentracing-cpp
+thrift
+yaml-cpp
