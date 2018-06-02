@@ -1,0 +1,7 @@
+Boost
+Boost thread
+GTest
+catkin
+ros_environment
+ros_message_runtime
+rospack
