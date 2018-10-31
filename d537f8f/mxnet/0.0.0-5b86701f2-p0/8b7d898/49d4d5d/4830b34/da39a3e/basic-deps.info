@@ -1,0 +1,9 @@
+LAPACK
+OpenBLAS
+cub
+dlpack
+dmlc-core
+mkl
+mkldnn
+mshadow
+tvm
