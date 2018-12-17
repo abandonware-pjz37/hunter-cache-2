@@ -1,0 +1,12 @@
+drm
+ice
+sm
+x11
+xcb
+xcursor
+xdamage
+xext
+xfixes
+xrender
+xshmfence
+xxf86vm
