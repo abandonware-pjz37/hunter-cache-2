@@ -1,0 +1,15 @@
+drm
+gst_plugins_bad
+gst_plugins_good
+gst_plugins_ugly
+ice
+sm
+x11
+xcb
+xcursor
+xdamage
+xext
+xfixes
+xrender
+xshmfence
+xxf86vm
