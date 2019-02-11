@@ -1,0 +1,2 @@
+set("protobuf_BUILD_TESTS" "OFF" CACHE INTERNAL "")
+set("protobuf_BUILD_LIBPROTOBUF_LITE" "OFF" CACHE INTERNAL "")
