@@ -1,0 +1,6 @@
+OpenCV
+cub
+dlpack
+dmlc-core
+mshadow
+tvm
