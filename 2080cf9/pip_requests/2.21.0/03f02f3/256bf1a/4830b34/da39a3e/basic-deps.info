@@ -1,0 +1,5 @@
+hunter_venv
+pip_certifi
+pip_chardet
+pip_idna
+pip_urllib3
