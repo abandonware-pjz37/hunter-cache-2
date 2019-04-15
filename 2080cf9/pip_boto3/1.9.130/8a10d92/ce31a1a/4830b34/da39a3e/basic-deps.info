@@ -1,0 +1,6 @@
+hunter_venv
+pip_botocore
+pip_jmespath
+pip_python-dateutil
+pip_six
+pip_urllib3
