@@ -1,0 +1,5 @@
+set("EXTRA_FLAGS" "--without-python" CACHE INTERNAL "")
+set("EXTRA_FLAGS" "${EXTRA_FLAGS}" "--without-lzma" CACHE INTERNAL "")
+set("EXTRA_FLAGS" "${EXTRA_FLAGS}" "--without-zlib" CACHE INTERNAL "")
+set("EXTRA_FLAGS" "${EXTRA_FLAGS}" "--without-iconv" CACHE INTERNAL "")
+set("PKGCONFIG_EXPORT_TARGETS" "libxml-2.0" CACHE INTERNAL "")
